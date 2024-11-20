@@ -6,4 +6,5 @@ scikit-learn
 joblib
 jinja2
 pyarrow
+python-multipart
 
